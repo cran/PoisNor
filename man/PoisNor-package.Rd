@@ -3,7 +3,7 @@
 \alias{PoisNor}
 \docType{package}
 \title{
-Simultaneous generation of multivariate data with Poisson and normal marginals.
+Simultaneous Generation of Multivariate Data with Poisson and Normal Marginals
 }
 \description{
 	The package implements a procedure for simultaneous generation of multivariate data with count and continuous variables with a pre-specified correlation matrix. The count and continuous variables are assumed to have Poisson and normal marginals, respectively. The data generation mechanism is a combination of the normal to anything principle and a connection between Poisson and normal correlations in the mixture. Data generation is accomplished by first calculating an intermediate correlation matrix (\code{\link{cmat.star}}) which is used to generate a sample from multivariate normal distribution. Then, the first few components (corresponding to number of Poisson variables) are transformed to Poisson variables via inverse CDF method. The resulting data are composed of a mixture of Poisson and normal variables that conform with pre-specified marginal distributions and correlation structure.\cr\cr
@@ -14,8 +14,8 @@ The function \code{\link{Valid.correlation}} returns the lower and upper bounds 
 \tabular{ll}{
 Package: \tab PoisNor\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2014-03-05\cr
+Version: \tab 1.1\cr
+Date: \tab 2016-06-30\cr
 License: \tab GPL\cr
 }
 

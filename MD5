@@ -1,5 +1,5 @@
-a6c0596ec0333994a3fd2f48febdeb13 *DESCRIPTION
-c9ffe62cb9e2ed6d794f5e99b59f0c42 *NAMESPACE
+68b2e7c10d919e0daa7cfae22e837da9 *DESCRIPTION
+40d29638cb223ccc7746c18a880d5e63 *NAMESPACE
 bbe105a1d946e0fe3fa24eee50794254 *R/Cor.PN.Limit.R
 72bcf79e170e2e1174177ebada570f3a *R/Cor.PP.Limit.R
 b3fce17dc520705ffed7c45459dc4d0d *R/Valid.correlation.R
@@ -8,7 +8,7 @@ ba00a195ec54a9b781ecc5fbaaa6d216 *R/cmat.star.R
 25775c9acc5eea9d9a063193ef3b151c *R/genPoisNor.R
 418139e37603e725d492e3d6248eb322 *man/Cor.PN.Limit.Rd
 cb23b61b99a670627ba5fb09a42e4244 *man/Cor.PP.Limit.Rd
-2ab6b76b4fca2bc77eb3b24b08c3764a *man/PoisNor-package.Rd
+4f33ea6d767d426cf75a8f272295c709 *man/PoisNor-package.Rd
 7b25557c0632d3327b53bd03353fbcc3 *man/Valid.correlation.Rd
 a5e3a23d5de7e22701346226f506f082 *man/Validate.correlation.Rd
 26f2a6593e105797a51b5a45219ddaf4 *man/cmat.star.Rd
