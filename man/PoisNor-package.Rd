@@ -14,8 +14,8 @@ The function \code{\link{Valid.correlation}} returns the lower and upper bounds 
 \tabular{ll}{
 Package: \tab PoisNor\cr
 Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2016-06-30\cr
+Version: \tab 1.2\cr
+Date: \tab 2018-02-02\cr
 License: \tab GPL\cr
 }
 
