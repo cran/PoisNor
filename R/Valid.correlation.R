@@ -8,10 +8,10 @@ function(no.pois, no.norm, lamvec){
 
 
   if (no.pois!=nPois) { stop("Dimension of lamvec does not match the number of Poisson variables!\n") }
-  if (sum(lamvec<0)>0){ stop("Lambda values cannnot be negative!\n") }
+  if (sum(lamvec<0)>0){ stop("Lambda values cannot be negative!\n") }
   
-  if (no.norm<0) { stop("Number of normal variables cannnot be negative!\n") }
-  if  (!is.wholenumber(no.norm)){ stop("Number of normal variables cannnot be fractional number!\n") }
+  if (no.norm<0) { stop("Number of normal variables cannot be negative!\n") }
+  if  (!is.wholenumber(no.norm)){ stop("Number of normal variables cannot be A fractional number!\n") }
   
   
   samples=100000

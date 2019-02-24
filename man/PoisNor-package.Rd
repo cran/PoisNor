@@ -14,15 +14,15 @@ The function \code{\link{Valid.correlation}} returns the lower and upper bounds 
 \tabular{ll}{
 Package: \tab PoisNor\cr
 Type: \tab Package\cr
-Version: \tab 1.2\cr
-Date: \tab 2018-02-02\cr
+Version: \tab 1.3\cr
+Date: \tab 2019-02-24\cr
 License: \tab GPL\cr
 }
 
 }
 \author{
-Anup Amatya, Hakan Demirtas
+Anup Amatya, Hakan Demirtas, Ran Gao
 
-Maintainer: Anup Amatya <aamatya@nmsu.edu>
+Maintainer: Ran Gao <rgao8@uic.edu>
 
 }
