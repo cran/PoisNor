@@ -2,10 +2,11 @@
 \alias{genPoisNor}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Generates a data set with Poisson and normal variables.
+Generates a data set with Poisson and normal variables
 }
 \description{
-The function simulates a sample of size \code{n} from a multivariate Poisson and normal variables with correlation matrix \code{corMat} and pre-specified marginals.
+The function simulates multivariate data with Poisson and normal components with a pre-specified correlation matrix and marginal distributions.
+
 }
 \usage{
 genPoisNor(n, no.norm, no.pois, cmat.star, lamvec, sd.vec, mean.vec)

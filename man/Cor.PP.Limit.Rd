@@ -2,7 +2,7 @@
 \alias{Cor.PP.Limit}
 
 \title{
-Finds the feasible correlation range for a pair of Poisson variables.
+Finds the feasible correlation range for a pair of Poisson variables
 }
 \description{
 The function computes the lower and upper bounds of a pairwise correlation between a pair of Poisson variables.

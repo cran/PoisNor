@@ -2,7 +2,7 @@
 \alias{Valid.correlation}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Computes the lower and upper correlation bounds in the form of two matrices.
+Computes the lower and upper correlation bounds in the form of two matrices
 }
 \description{
 The function computes the lower and upper bounds for the target correlations based on the marginal rates.

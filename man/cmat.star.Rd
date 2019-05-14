@@ -2,7 +2,7 @@
 \alias{cmat.star}
 
 \title{
-Computes the correlation of intermediate multivariate normal data before subsequent inverse CDF transformation.
+Computes the correlation of intermediate multivariate normal data before subsequent inverse CDF transformation
 }
 \description{
 The function computes an intermediate correlation matrix which leads to the target correlation matrix after inverse CDF transformation of the samples generated from a multivariate normal distribution with the intermediate correlation matrix. 
@@ -50,7 +50,7 @@ cstar = cmat.star(no.pois=3, no.norm=3, TV, lamvec)
 }
 \references{
 
-I. Yahav and G. Shmueli (2012). On generating multivariate poisson data in management science applications. \emph{Applied Stochastic Models in Business and Industry}; \bold{28(1):91-102}.
+I. Yahav and G. Shmueli (2012). On generating multivariate poisson data in management science applications. \emph{Applied Stochastic Models in Business and Industry}; 28(1):91-102.
 
 }
 

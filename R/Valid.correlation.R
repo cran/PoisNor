@@ -11,7 +11,7 @@ function(no.pois, no.norm, lamvec){
   if (sum(lamvec<0)>0){ stop("Lambda values cannot be negative!\n") }
   
   if (no.norm<0) { stop("Number of normal variables cannot be negative!\n") }
-  if  (!is.wholenumber(no.norm)){ stop("Number of normal variables cannot be A fractional number!\n") }
+  if  (!is.wholenumber(no.norm)){ stop("Number of normal variables cannot be a fractional number!\n") }
   
   
   samples=100000

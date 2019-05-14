@@ -2,7 +2,7 @@
 \alias{Validate.correlation}
 
 \title{
-Checks the target correlation matrix.
+Checks the target correlation matrix
 }
 \description{
 The function checks the validity of the values of pairwise correlations. Additionally, it checks positive definiteness, symmetry and correctness of the dimensions.
